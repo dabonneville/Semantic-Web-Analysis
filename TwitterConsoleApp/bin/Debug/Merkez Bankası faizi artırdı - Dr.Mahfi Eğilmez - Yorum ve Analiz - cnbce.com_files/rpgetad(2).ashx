@@ -1,0 +1,1 @@
+var request9172302_9466364='http://';var backup9172302_9466364='http://';rp_html(9172302,9466364,"<scr"+"ipt src='http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=9148947&PluID=0&w=300&h=250&ord=2026707178&ucm=true&rprnd="+Math.random()%99999999+"'></scr"+"ipt>");
